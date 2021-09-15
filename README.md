@@ -1,5 +1,7 @@
 ### Constellation: A Browser-based Astronomy Tracker
 
+Proposal by Michael Loughnane and Sri Kaushik
+
 ### What and why?
 
 This semester, I hope to build a browser-based application to track the orbit of satellites and other orbital bodies (e.g. things like the ISS and more, time permitting). Recreational astronomy is shockingly difficult to get into for first timers seeking to do anything more than just point a telescope up and guess. Especially to hobbyists who want to use something like radio and communicate with orbiting satellites, options for finding out which satellites are where in a non-overwhelming manner are scarce. This solution would provide those aspiring astronomers with a clean and simple tool to enable their exploration of outer space, and thus making space more accessible for everybody.
